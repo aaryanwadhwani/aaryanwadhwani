@@ -124,7 +124,7 @@ On the academic side, I'm involved in research on data structures and algorithms
 
 Each project has taught me something new about turning complex problems into elegant solutions. I love working on things that actually make a difference, whether it's optimizing algorithms or building systems that help people.
 
-*Want to learn more about my specific experience? Check out my resume below!*
+*Want to learn more about my specific experiences? Visit my website or check out my resume from below!*
 
 ## Technical Expertise
 
