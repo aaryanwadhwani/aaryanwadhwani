@@ -184,7 +184,7 @@ Each project has taught me something new about turning complex problems into ele
 
 <div align="center">
   <p><em>Thanks for visiting! Feel free to reach out if you'd like to collaborate on something interesting.</em></p>
-  <a href="https://raw.githubusercontent.com/aaryanwadhwani/aaryanwadhwani/main/resources/Aaryan_Wadhwani_Fall_AiCsUg_25.pdf">
+  <a href="https://raw.githubusercontent.com/aaryanwadhwani/aaryanwadhwani/main/resources/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-00D4FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
   <a href="https://raw.githubusercontent.com/aaryanwadhwani/aaryanwadhwani/main/resources/transcript.pdf">
