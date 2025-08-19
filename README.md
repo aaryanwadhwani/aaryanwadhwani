@@ -5,14 +5,23 @@
 </div>
 
 <div align="center">
+    <a href="https://aaryanwadhwani.dev">
+  <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+</a>
   <a href="https://www.linkedin.com/in/aaryan-wadhwani-b0481a248">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:wadhwani.aaryand@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/aaryanwadhwani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/aaryanwadhwani/aaryanwadhwani/main/resources/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-00D4FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://raw.githubusercontent.com/aaryanwadhwani/aaryanwadhwani/main/resources/transcript.pdf">
+    <img src="https://img.shields.io/badge/Transcript-FF6F00?style=for-the-badge&logo=document&logoColor=white" alt="Transcript" />
   </a>
 </div>
 
@@ -169,14 +178,14 @@ Each project has taught me something new about turning complex problems into ele
 ## Let's Connect
 
 <div align="center">
+    <a href="https://aaryanwadhwani.dev">
+  <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+</a>
   <a href="https://www.linkedin.com/in/aaryan-wadhwani-b0481a248">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:wadhwani.aaryand@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/aaryanwadhwani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
