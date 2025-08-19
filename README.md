@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Turning+caffeine+into+code;Making+computers+do+cool+things;Debugging+the+future+%7C+Building+the+present" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Turning+Caffeine+into+Code;Making+Computers+do+Cool+Things;Debugging+the+Present+%26%26+Building+the+Future" alt="Typing SVG" />
 </div>
 
 ## About Me 
