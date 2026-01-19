@@ -55,7 +55,7 @@
 ### Purdue University
 **West Lafayette, IN** | *August 2023 - May 2026*
 
-- **Triple Degree**: B.S. Computer Science, B.S. Applied Statistics & B.S. Artificial Intelligence
+- **Triple Degree**: B.S. Computer Science, B.S. Applied Statistics, & B.S. Artificial Intelligence
 - **Minor**: Mathematics
 - **Certificate**: Applications in Data Science
 
