@@ -39,7 +39,7 @@
 
 ## About Me 
 
-- Currently a student at Purdue University, juggling Computer Science & AI degrees
+- Currently a student at Purdue University, juggling Computer Science, Applied Statistics & Artificial Intelligence degrees
 - Love working with data and exploring the world of machine learning
 - Research driven - always curious about how things work under the hood
 - Passionate about building things that actually work and make a difference
@@ -55,7 +55,7 @@
 ### Purdue University
 **West Lafayette, IN** | *August 2023 - May 2026*
 
-- **Dual Degree**: B.S. Computer Science & B.S. Artificial Intelligence
+- **Triple Degree**: B.S. Computer Science, B.S. Applied Statistics & B.S. Artificial Intelligence
 - **Minor**: Mathematics
 - **Certificate**: Applications in Data Science
 
@@ -67,7 +67,6 @@
   <img src="https://img.shields.io/badge/CS_182-Foundations_CS-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="CS 182" />
   <img src="https://img.shields.io/badge/CS_240-Programming_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="CS 240" />
   <img src="https://img.shields.io/badge/CS_251-Data_Structures-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="CS 251" />
-  <img src="https://img.shields.io/badge/CS_252-Systems_Programming-654FF0?style=for-the-badge&logoColor=white" alt="CS 252" />
   <img src="https://img.shields.io/badge/CS_291-Soph_Development-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="CS 291" />
   <img src="https://img.shields.io/badge/CS_39699-Prof_Practice-000000?style=for-the-badge&logoColor=white" alt="CS 39699" />
 </div>
@@ -76,9 +75,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/CS_39000_ATC-Adv_Comp_Architecture-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CS 39000-ATC" />
   <img src="https://img.shields.io/badge/CS_39000_ATA-Adv_Algorithms-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="CS 39000-ATA" />
-  <img src="https://img.shields.io/badge/CS_211-Competitive_Programming-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" alt="CS 211" />
-  <img src="https://img.shields.io/badge/CS_577-Natural_Language_Processing-412991?style=for-the-badge&logo=openai&logoColor=white" alt="CS 577" />
-  <img src="https://img.shields.io/badge/CS_458-Intro_to_Robotics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CS 458" />
+  <img src="https://img.shields.io/badge/CS_311-Competitive_Programming_II-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" alt="CS 211" />
+  <img src="https://img.shields.io/badge/CS_373-Data_Mining_and_Machine_Learning-412991?style=for-the-badge&logo=openai&logoColor=white" alt="CS 577" />
+  <img src="https://img.shields.io/badge/CS_471-Intro_to_Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CS 458" />
 </div>
 
 #### Mathematics
@@ -92,8 +91,8 @@
 #### Systems & Architecture
 <div align="center">
   <img src="https://img.shields.io/badge/CS_250-Computer_Architecture-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CS 250" />
-  <img src="https://img.shields.io/badge/CS_354-Operating_Systems-654FF0?style=for-the-badge&logoColor=white" alt="CS 354" />
-  <img src="https://img.shields.io/badge/CS_438-Information_Systems-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CS 438" />
+  <img src="https://img.shields.io/badge/CS_252-Systems_Programming-654FF0?style=for-the-badge&logoColor=white" alt="CS 354" />
+  <img src="https://img.shields.io/badge/CS_348-Information_Systems-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CS 438" />
   <img src="https://img.shields.io/badge/CS_193-Tools-019733?style=for-the-badge&logo=vim&logoColor=white" alt="CS 193" />
 </div>
 
@@ -109,7 +108,7 @@
   <img src="https://img.shields.io/badge/ENGL_106-First_Year_Composition-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="ENGL 106" />
   <img src="https://img.shields.io/badge/COM_217-Science_Writing-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="COM 217" />
   <img src="https://img.shields.io/badge/PHIL_208-Ethics_Data_Science-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="PHIL 208" />
-  <img src="https://img.shields.io/badge/PHIL_221-Intro_Philosophy_Sci-412991?style=for-the-badge&logo=openai&logoColor=white" alt="PHIL 221" />
+  <img src="https://img.shields.io/badge/PHIL_322-Philosophy_of_Technology-412991?style=for-the-badge&logo=openai&logoColor=white" alt="PHIL 221" />
   <img src="https://img.shields.io/badge/PSY_120-Elementary_Psychology-FF6F00?style=for-the-badge&logo=brain&logoColor=white" alt="PSY 120" />
   <img src="https://img.shields.io/badge/PSY_200-Intro_Cognitive_Psych-FF6F00?style=for-the-badge&logo=brain&logoColor=white" alt="PSY 200" />
   <img src="https://img.shields.io/badge/SOC_100-Intro_Sociology-654FF0?style=for-the-badge&logoColor=white" alt="SOC 100" />
