@@ -208,4 +208,4 @@ These unique experiences have earned me the distinction of the prestigious AI Ou
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Tech Animation" />
 </div>
 
-<small>Last edited:  *Jun 8th 2026*</small>
+<small>Last edited:  *June 8, 2026*</small>
