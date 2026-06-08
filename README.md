@@ -49,9 +49,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Purdue_University-000000?style=for-the-badge&logo=purdue&logoColor=white" alt="Purdue University" />
-  <img src="https://img.shields.io/badge/GPA-3.92/4.00-00FF00?style=for-the-badge&logoColor=white" alt="GPA" />
-  <img src="https://img.shields.io/badge/Award-AI_Oustanding_Junior_CS_2025/26-FFFFFF?style=for-the-badge&logoColor=black" alt="Award" />
-  <img src="https://img.shields.io/badge/Honor-Dean's_List-FFD700?style=for-the-badge&logoColor=black" alt="Dean's List" />
+  <img src="https://img.shields.io/badge/GPA:-3.92/4.00-00FF00?style=for-the-badge&logoColor=white" alt="GPA" />
+  <img src="https://img.shields.io/badge/Award:-AI_Oustanding_Junior_CS_2025/26-FFFFFF?style=for-the-badge&logoColor=black" alt="Award" />
+  <img src="https://img.shields.io/badge/Honor:-Dean's_List-FFD700?style=for-the-badge&logoColor=black" alt="Dean's List" />
 </div>
 
 ### Purdue University
@@ -207,3 +207,5 @@ These unique experiences have earned me the distinction of the prestigious AI Ou
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Tech Animation" />
 </div>
+
+<small>Last edited:  *Jun 8th 2026*</small>
