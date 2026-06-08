@@ -40,6 +40,7 @@
 ## About Me 
 
 - Currently a student at Purdue University, juggling Computer Science, Applied Statistics & Artificial Intelligence degrees
+- Recently honored with the prestigious AI Outstanding Junior in Computer Science for the academic year 2025-26 by the Computer Science department
 - Love working with data and exploring the world of machine learning
 - Research driven - always curious about how things work under the hood
 - Passionate about building things that actually work and make a difference
@@ -48,12 +49,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Purdue_University-000000?style=for-the-badge&logo=purdue&logoColor=white" alt="Purdue University" />
-  <img src="https://img.shields.io/badge/GPA-3.93/4.00-00FF00?style=for-the-badge&logoColor=white" alt="GPA" />
-  <img src="https://img.shields.io/badge/Dean's_List-Honor-FFD700?style=for-the-badge&logoColor=black" alt="Dean's List" />
+  <img src="https://img.shields.io/badge/GPA-3.92/4.00-00FF00?style=for-the-badge&logoColor=white" alt="GPA" />
+  <img src="https://img.shields.io/badge/Award-AI_Oustanding_Junior_CS_2025/26-FFFFFF?style=for-the-badge&logoColor=black" alt="Award" />
+  <img src="https://img.shields.io/badge/Honor-Dean's_List-FFD700?style=for-the-badge&logoColor=black" alt="Dean's List" />
 </div>
 
 ### Purdue University
-**West Lafayette, IN** | *August 2023 - May 2026*
+**West Lafayette, IN** | *August 2023 - Present*
 
 - **Triple Degree**: B.S. Computer Science, B.S. Applied Statistics, & B.S. Artificial Intelligence
 - **Minor**: Mathematics
@@ -117,11 +119,13 @@
 
 ## What I've Been Up To
 
-I've had the opportunity to work on some really interesting projects across different domains. I've done data science work at major tech companies, built machine learning systems for content analysis, and developed web applications with modern frameworks. I've also worked on supply chain analytics, processed large datasets for insights, and built retrieval systems for AI applications.
+I've had the opportunity to work on some really interesting projects across different domains. I've done software engineering and data science research at major tech companies, built machine learning systems for content analysis, and developed web applications with modern frameworks. I've also worked on supply chain analytics, processed large datasets for insights, and built retrieval systems for AI applications.
 
 On the academic side, I'm involved in research on data structures and algorithms, specifically working on performance optimizations. I also help teach data structures courses to hundreds of students, which has been incredibly rewarding.
 
 Each project has taught me something new about turning complex problems into elegant solutions. I love working on things that actually make a difference, whether it's optimizing algorithms or building systems that help people.
+
+These unique experiences have earned me the distinction of the prestigious AI Outstanding Junior in Computer Science for the academic year 2025-26 by the Computer Science department at Purdue University! 
 
 *Want to learn more about my specific experiences? Visit my website or check out my resume from below!*
 
